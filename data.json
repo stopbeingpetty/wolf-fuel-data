@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "updatedAt": 1786985928826,
+  "meals": [
+    {
+      "id": "d7080d47-6006-43be-9a96-b07c4b7cc8a3",
+      "name": "Jaja + sir + panceta",
+      "cat": "d",
+      "icon": "🍳",
+      "tags": [
+        "jaja",
+        "sir",
+        "panceta"
+      ],
+      "created": 1786985928826
+    },
+    {
+      "id": "379ca11d-097d-4a59-b55b-8caa47027d44",
+      "name": "Jaja + sir + pršut",
+      "cat": "d",
+      "icon": "🍳",
+      "tags": [
+        "jaja",
+        "sir",
+        "pršut"
+      ],
+      "created": 1786985928826
+    },
+    {
+      "id": "4409bc8a-0761-405b-8543-8136c69c2775",
+      "name": "Overnight oats",
+      "cat": "d",
+      "icon": "🥣",
+      "tags": [
+        "zob"
+      ],
+      "created": 1786985928826
+    },
+    {
+      "id": "d12c2be6-30ca-4088-a607-9f678af54ae5",
+      "name": "Kefir sa sjemenkama",
+      "cat": "d",
+      "icon": "🥛",
+      "tags": [
+        "kefir",
+        "sjemenke"
+      ],
+      "created": 1786985928826
+    },
+    {
+      "id": "aaa023db-955d-46ed-928e-76674ac53ee7",
+      "name": "Kruh s avokadom",
+      "cat": "d",
+      "icon": "🥑",
+      "tags": [
+        "kruh",
+        "avokado"
+      ],
+      "created": 1786985928826
+    },
+    {
+      "id": "281ddbbe-f6f2-4742-a8e9-484ddaf0a504",
+      "name": "Mamin ručak",
+      "cat": "r",
+      "icon": "🍲",
+      "tags": [],
+      "created": 1786985928826
+    }
+  ],
+  "plan": {},
+  "meta": {
+    "seeded": true
+  }
+}
