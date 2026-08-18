@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1787039176125,
+  "updatedAt": 1787039277278,
   "meals": [
     {
       "id": "225baead-12c1-4506-8410-907f49d25a39",
@@ -59,9 +59,28 @@
       "cat": "r",
       "tags": [],
       "created": 1787039176125
+    },
+    {
+      "id": "068f55f5-2227-4ca7-af8a-c6e805b46293",
+      "name": "Breskva+burrata+pršut",
+      "cat": "d",
+      "tags": [
+        "Breskva",
+        "burrata",
+        "pršut"
+      ],
+      "created": 1787039277278
     }
   ],
-  "plan": {},
+  "plan": {
+    "2026-08-18": {
+      "d": [
+        "068f55f5-2227-4ca7-af8a-c6e805b46293"
+      ],
+      "r": [],
+      "v": []
+    }
+  },
   "meta": {
     "seeded": true
   }
