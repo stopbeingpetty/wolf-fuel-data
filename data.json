@@ -1,70 +1,64 @@
 {
   "version": 1,
-  "updatedAt": 1786985928826,
+  "updatedAt": 1787039176125,
   "meals": [
     {
-      "id": "d7080d47-6006-43be-9a96-b07c4b7cc8a3",
+      "id": "225baead-12c1-4506-8410-907f49d25a39",
       "name": "Jaja + sir + panceta",
       "cat": "d",
-      "icon": "🍳",
       "tags": [
         "jaja",
         "sir",
         "panceta"
       ],
-      "created": 1786985928826
+      "created": 1787039176125
     },
     {
-      "id": "379ca11d-097d-4a59-b55b-8caa47027d44",
+      "id": "8c1da9a4-ed1c-47a1-bad7-9d9770f9efe1",
       "name": "Jaja + sir + pršut",
       "cat": "d",
-      "icon": "🍳",
       "tags": [
         "jaja",
         "sir",
         "pršut"
       ],
-      "created": 1786985928826
+      "created": 1787039176125
     },
     {
-      "id": "4409bc8a-0761-405b-8543-8136c69c2775",
+      "id": "1827c8c5-909a-4e79-beeb-464edce047a4",
       "name": "Overnight oats",
       "cat": "d",
-      "icon": "🥣",
       "tags": [
         "zob"
       ],
-      "created": 1786985928826
+      "created": 1787039176125
     },
     {
-      "id": "d12c2be6-30ca-4088-a607-9f678af54ae5",
+      "id": "e55e058e-5414-4bb1-bea6-2acb6c0a7c1c",
       "name": "Kefir sa sjemenkama",
       "cat": "d",
-      "icon": "🥛",
       "tags": [
         "kefir",
         "sjemenke"
       ],
-      "created": 1786985928826
+      "created": 1787039176125
     },
     {
-      "id": "aaa023db-955d-46ed-928e-76674ac53ee7",
+      "id": "acfb204a-eff2-4e53-bb2a-7e54a949f137",
       "name": "Kruh s avokadom",
       "cat": "d",
-      "icon": "🥑",
       "tags": [
         "kruh",
         "avokado"
       ],
-      "created": 1786985928826
+      "created": 1787039176125
     },
     {
-      "id": "281ddbbe-f6f2-4742-a8e9-484ddaf0a504",
+      "id": "439972a8-6006-4a9c-ad6c-3b0825ac6599",
       "name": "Mamin ručak",
       "cat": "r",
-      "icon": "🍲",
       "tags": [],
-      "created": 1786985928826
+      "created": 1787039176125
     }
   ],
   "plan": {},
